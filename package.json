@@ -42,6 +42,7 @@
     "onchange": "^3.3.0"
   },
   "devDependencies": {
+    "jshint": "^2.9.5",
     "parallelshell": "^3.0.2"
   }
 }
